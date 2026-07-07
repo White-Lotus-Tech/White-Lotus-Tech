@@ -6,6 +6,16 @@ Welcome to **White Lotus Tech** — a small group of developers passionate about
 
 ## 👥 Members
 
+### [DaniloDevSouza](https://github.com/DaniloDevSouza)
+- 🔗 [GitHub](https://github.com/DaniloDevSouza)
+
+---
+
+### [Renanmq10](https://github.com/Renanmq10)
+- 🔗 [GitHub](https://github.com/Renanmq10)
+
+---
+
 ### [W3ND31](https://github.com/W3ND31) — Wendel Macedo
 - 📍 Campinas-SP, Brazil
 - 🔭 Currently working with **Clojure** and **Flutter**
@@ -14,16 +24,6 @@ Welcome to **White Lotus Tech** — a small group of developers passionate about
 - 🛠 **Current Skills:** Clojure, Flutter, Dart, Git
 - 📚 **Previous Stack:** TypeScript, React, Java, Spring Boot, Docker, Linux
 - 🔗 [LinkedIn](https://www.linkedin.com/in/W3ND31/) · [GitHub](https://github.com/W3ND31)
-
----
-
-### [DaniloDevSouza](https://github.com/DaniloDevSouza)
-- 🔗 [GitHub](https://github.com/DaniloDevSouza)
-
----
-
-### [Renanmq10](https://github.com/Renanmq10)
-- 🔗 [GitHub](https://github.com/Renanmq10)
 
 ---
 
